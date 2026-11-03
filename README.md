@@ -9,7 +9,7 @@
 ## 한글패치 설치
 
 1. 게임을 완전히 종료합니다.
-2. 위 한글패치 다운로드에서 `ProbablyStolen-Korean-Mod-v1.0.7.zip`을 받습니다.
+2. 위 한글패치 다운로드에서 `ProbablyStolen-Korean-Mod-v1.0.8.zip`을 받습니다.
 3. 압축 안의 `Mods` 폴더를 `Probably Stolen.exe`가 있는 폴더에 합칩니다.
 4. 게임의 **Mods** 메뉴에서 **Probably Stolen 한국어**를 활성화합니다.
 5. 게임을 완전히 종료한 뒤 다시 실행하고 언어 목록에서 **한국어**를 선택합니다.
